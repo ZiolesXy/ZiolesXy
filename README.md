@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Cyrene.gif" width="90%" height="250" />
+  <img src="Cyrene.gif" width="100%" height="300" />
 </p>
 
 ## 🌐 Socials:
